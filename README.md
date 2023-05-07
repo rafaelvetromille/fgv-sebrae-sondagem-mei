@@ -6,11 +6,11 @@ A pesquisa abrange uma série de tópicos relevantes, tais como o volume de dema
 
 A pesquisa produz alguns índices sínteses com base nas perguntas realizadas, a saber:
 
-O Índice de Confiança do Microempreendedor Individual (IC-MEI) avalia tanto a situação atual quanto as previsões para os próximos meses no setor empresarial. Esse índice é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Situação Atual dos Negócios, Volume de Demanda Atual, Tendência dos Negócios e Demanda Prevista.
+O **Índice de Confiança do Microempreendedor Individual (IC-MEI)** avalia tanto a situação atual quanto as previsões para os próximos meses no setor empresarial. Esse índice é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Situação Atual dos Negócios, Volume de Demanda Atual, Tendência dos Negócios e Demanda Prevista.
 
-Já o Índice da Situação Atual do Microempreendedor Individual (ISA-MEI) avalia exclusivamente a situação no próprio mês da pesquisa no setor empresarial. Esse índice é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Situação Atual dos Negócios e Nível de Demanda Atual.
+Já o **Índice da Situação Atual do Microempreendedor Individual (ISA-MEI)** avalia exclusivamente a situação no próprio mês da pesquisa no setor empresarial. Esse índice é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Situação Atual dos Negócios e Nível de Demanda Atual.
 
-Por fim, o Índice de Expectativas de Serviços (IE-MEI) avalia as previsões para os próximos meses no setor empresarial. Esse índice também é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Tendência dos Negócios e Demanda Prevista.
+Por fim, o **Índice de Expectativas de Serviços (IE-MEI)** avalia as previsões para os próximos meses no setor empresarial. Esse índice também é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Tendência dos Negócios e Demanda Prevista.
 
 Esses índices sintetizam informações importantes sobre a situação e as expectativas dos microempreendedores individuais em diversos setores. Eles são ferramentas úteis para a tomada de decisões e políticas públicas que visem o desenvolvimento desses profissionais e o fortalecimento do setor empresarial como um todo.
 
