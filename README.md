@@ -2,7 +2,9 @@
 
 A Sondagem do Microempreendedor Individual (MEI) nos setores empresarial, indústria de transformação, serviços e comércio representa uma iniciativa crucial na obtenção de indicadores precisos que reflitam a situação atual e as expectativas futuras dos microempreendedores individuais. Esses dados são fundamentais para a tomada de decisões e políticas públicas que possam fomentar o desenvolvimento desses profissionais.
 
-A pesquisa abrange uma série de tópicos relevantes, tais como o volume de demanda atual, a migração para micro e pequenas empresas, a previsão de demanda, a situação atual dos negócios, a tendência do mercado, o acesso a crédito, os fatores limitantes, a renda principal e outras fontes de renda. Essas informações permitem uma visão abrangente e aprofundada da realidade dos microempreendedores individuais, possibilitando a elaboração de estratégias mais efetivas para o seu desenvolvimento e sucesso.
+A pesquisa abrange uma série de tópicos relevantes, tais como o volume de demanda atual, a migração para micro e pequenas empresas, a previsão de demanda, a situação atual dos negócios, a tendência do mercado, o acesso a crédito, os fatores limitantes, a renda principal e outras fontes de renda. 
+
+Essas informações permitem uma visão abrangente e aprofundada da realidade dos microempreendedores individuais, possibilitando a elaboração de estratégias mais efetivas para o seu desenvolvimento e sucesso.
 
 A pesquisa produz alguns índices sínteses com base nas perguntas realizadas, a saber:
 
@@ -11,8 +13,6 @@ O **Índice de Confiança do Microempreendedor Individual (IC-MEI)** avalia tant
 Já o **Índice da Situação Atual do Microempreendedor Individual (ISA-MEI)** avalia exclusivamente a situação no próprio mês da pesquisa no setor empresarial. Esse índice é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Situação Atual dos Negócios e Nível de Demanda Atual.
 
 Por fim, o **Índice de Expectativas de Serviços (IE-MEI)** avalia as previsões para os próximos meses no setor empresarial. Esse índice também é medido em pontos e é calculado a partir da média aritmética dos indicadores padronizados dos quesitos Tendência dos Negócios e Demanda Prevista.
-
-Esses índices sintetizam informações importantes sobre a situação e as expectativas dos microempreendedores individuais em diversos setores. Eles são ferramentas úteis para a tomada de decisões e políticas públicas que visem o desenvolvimento desses profissionais e o fortalecimento do setor empresarial como um todo.
 
 A lista de perguntas realizadas aos entrevistados durante a sondagem do Microempreendedor Individual (MEI) inclui as seguintes questões:
 
