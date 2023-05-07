@@ -1,8 +1,12 @@
 
-# fgv-sebrae-sondagem-mei
+# Boletim Mensal - Sondagem Econômica (MEI)
 
-<!-- badges: start -->
-<!-- badges: end -->
+O que é Pesquisado?
 
-The goal of fgv-sebrae-sondagem-mei is to ...
+- Demanda Atual
+- Demanda Prevista
+- Situação Atual Negócios
+- Tendência dos Negócios
+- Crédito
+- Fatores Limitativos
 
