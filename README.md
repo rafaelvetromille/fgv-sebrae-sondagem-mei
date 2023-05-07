@@ -24,6 +24,7 @@ O Índice de Expectativas de Serviços (IE-MEI) avalia as previsões para os pr�
 
 Lista de perguntas realizadas aos entrevistados: 
 
+- Você já trabalhou como MEI nos últimos 12 meses?
 - Como você avalia o volume atual de demanda por seus serviços para esta época do ano?
 - Você acredita que seja possível a mudança da sua empresa para MPE?
 - Como evoluirá o volume de demanda por seus serviços nos próximos 3 meses?
