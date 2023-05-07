@@ -5,11 +5,14 @@ A Sondagem do Microempreendedor Individual (MEI) nos setores Empresarial, Indús
 O que é Pesquisado?
 
 - Volume de demanda atual
+- Migração para MPE
 - Demanda prevista
 - Situação atual dos negócios
 - Tendência dos negócios
 - Crédito 
 - Fatores limitativos 
+- Renda principal
+- Outras fontes de renda
 
 Alguns índices sínteses são formados a partir das perguntas realizadas, são eles:
 
@@ -19,9 +22,15 @@ O Índice da Situação Atual do Microempreendedor Individual (ISA-MEI) avalia a
 
 O Índice de Expectativas de Serviços (IE-MEI) avalia as previsões para os próximos meses no setor empresarial, é medido por pontos e calculado pela média aritmética dos indicadores padronizados dos quesitos Tendência dos Negócios e Demanda Prevista. 
 
+Lista de perguntas realizadas aos entrevistados: 
 
-Lista de perguntas: 
+- Como você avalia o volume atual de demanda por seus serviços para esta época do ano?
+- Você acredita que seja possível a mudança da sua empresa para MPE?
+- Como evoluirá o volume de demanda por seus serviços nos próximos 3 meses?
+- Como você avalia a situação atual dos negócios para esta época do ano?
+- Como estará a situação dos negócios nos próximos seis meses?
+- Como você avalia o grau de dificuldade para acesso ao crédito por sua empresa no momento?
+- Como estará a situação dos negócios nos próximos seis meses?
+- O MEI é sua principal fonte de renda?
+- Você possui outra fonte de renda?
 
-- Como você avalia o volume atual de demanda por seus serviços para esta época do ano? (Forte, Normal, Fraca)
-- Como evoluirá o volume de demanda por seus serviços nos próximos 3 meses? (Aumentará, Ficará igual, Diminuirá)
-- Como você avalia a situação atual dos negócios para esta época do ano? (Boa, Normal, Ruim)
