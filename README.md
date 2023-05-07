@@ -1,3 +1,15 @@
+<style>
+  #meu-enumerado {
+    font-family: Arial, sans-serif;
+  }
+</style>
+
+<ol id="meu-enumerado">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+
 # Sondagem do Microempreendedor Individual (MEI)
 
 A Sondagem do Microempreendedor Individual (MEI) nos setores empresarial, indústria de transformação, serviços e comércio representa uma iniciativa crucial na obtenção de indicadores precisos que reflitam a situação atual e as expectativas futuras dos microempreendedores individuais. Esses dados são fundamentais para a tomada de decisões e políticas públicas que possam fomentar o desenvolvimento desses profissionais.
@@ -16,7 +28,7 @@ Por fim, o **Índice de Expectativas de Serviços (IE-MEI)** avalia as previsõe
 
 A lista de perguntas realizadas aos entrevistados durante a sondagem do Microempreendedor Individual (MEI) inclui as seguintes questões:
 
-<p><span style="font-size: 10px;">
+
 1. Nos últimos 12 meses, você trabalhou como MEI?
 1. Como você avalia o volume atual de demanda por seus serviços em comparação com esta mesma época do ano?
 2. Você acredita que é possível fazer a transição da sua empresa para uma Microempresa (MPE)?
@@ -27,5 +39,5 @@ A lista de perguntas realizadas aos entrevistados durante a sondagem do Microemp
 7. Como você acredita que a situação dos negócios estará nos próximos seis meses?
 8. O MEI é sua principal fonte de renda?
 9. Você possui outras fontes de renda além do MEI?
-</span></p>
+
 Essas perguntas fornecem informações valiosas sobre a situação atual e as expectativas dos microempreendedores individuais em diferentes setores. As respostas ajudam a preencher uma lacuna de indicadores e fornecem insights importantes para a tomada de decisões e políticas públicas em prol do desenvolvimento desses profissionais e do setor empresarial como um todo.
