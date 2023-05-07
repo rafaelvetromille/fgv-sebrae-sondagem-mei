@@ -1,15 +1,3 @@
-<style>
-  #meu-enumerado {
-    font-family: Arial, sans-serif;
-  }
-</style>
-
-<ol id="meu-enumerado">
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ol>
-
 # Sondagem do Microempreendedor Individual (MEI)
 
 A Sondagem do Microempreendedor Individual (MEI) nos setores empresarial, indústria de transformação, serviços e comércio representa uma iniciativa crucial na obtenção de indicadores precisos que reflitam a situação atual e as expectativas futuras dos microempreendedores individuais. Esses dados são fundamentais para a tomada de decisões e políticas públicas que possam fomentar o desenvolvimento desses profissionais.
