@@ -18,7 +18,7 @@ A lista de perguntas realizadas aos entrevistados durante a sondagem do Microemp
 
 
 1. Nos últimos 12 meses, você trabalhou como MEI?
-1. Como você avalia o volume atual de demanda por seus serviços em comparação com esta mesma época do ano?
+1. Como você avalia o volume atual de demanda por seus produtos/serviços para esta época do ano?
 2. Você acredita que é possível fazer a transição da sua empresa para uma Microempresa (MPE)?
 3. Como você espera que o volume de demanda por seus serviços evolua nos próximos 3 meses?
 4. Como você avalia a situação atual dos negócios na sua área de atuação?
