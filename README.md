@@ -24,8 +24,8 @@ A lista de perguntas realizadas aos entrevistados durante a sondagem do Microemp
 1. Descontando-se a influência sazonal, como estará a situação dos negócios nos próximos seis meses?
 1. Como você avalia o volume atual de demanda por seus produtos/serviços para esta época do ano?
 1. Você acredita que seja possível a mudança da sua empresa para MPE?
-1. Descontando-se a influência sazonal, como evoluirá o volume de demanda por seus produtos/serviços nos próximos 3 meses?
+1. Como evoluirá o volume de demanda por seus produtos/serviços nos próximos 3 meses?
 1. Como você avalia o grau de dificuldade para acesso ao crédito por sua empresa no momento?
-1. Que fatores estão impedindo a melhora da situação dos negócios da sua empresa? Marque o(s) fator(es) mais importante(s).
+1. Que fatores estão impedindo a melhora da situação dos negócios da sua empresa?
 
 Essas perguntas fornecem informações valiosas sobre a situação atual e as expectativas dos microempreendedores individuais em diferentes setores. As respostas ajudam a preencher uma lacuna de indicadores e fornecem insights importantes para a tomada de decisões e políticas públicas em prol do desenvolvimento desses profissionais e do setor empresarial como um todo.
