@@ -17,15 +17,15 @@ Por fim, o **Índice de Expectativas de Serviços (IE-MEI)** avalia as previsõe
 A lista de perguntas realizadas aos entrevistados durante a sondagem do Microempreendedor Individual (MEI) inclui as seguintes questões:
 
 
-1. Nos últimos 12 meses, você trabalhou como MEI?
+1. Você trabalhou como MEI (Microempreendedor Individual) nos últimos 12 meses?
+1. Você possui outra fonte de renda?
+1. O MEI é sua principal fonte de renda?
+1. Como você avalia a situação atual dos negócios para esta época do ano?
+1. Descontando-se a influência sazonal, como estará a situação dos negócios nos próximos seis meses?
 1. Como você avalia o volume atual de demanda por seus produtos/serviços para esta época do ano?
-2. Você acredita que é possível fazer a transição da sua empresa para uma Microempresa (MPE)?
-3. Como você espera que o volume de demanda por seus serviços evolua nos próximos 3 meses?
-4. Como você avalia a situação atual dos negócios na sua área de atuação?
-5. Como você acredita que a situação dos negócios estará nos próximos seis meses?
-6. Como você avalia o grau de dificuldade para acessar crédito para sua empresa neste momento?
-7. Como você acredita que a situação dos negócios estará nos próximos seis meses?
-8. O MEI é sua principal fonte de renda?
-9. Você possui outras fontes de renda além do MEI?
+1. Você acredita que seja possível a mudança da sua empresa para MPE?
+1. Descontando-se a influência sazonal, como evoluirá o volume de demanda por seus produtos/serviços nos próximos 3 meses?
+1. Como você avalia o grau de dificuldade para acesso ao crédito por sua empresa no momento?
+1. Que fatores estão impedindo a melhora da situação dos negócios da sua empresa? Marque o(s) fator(es) mais importante(s).
 
 Essas perguntas fornecem informações valiosas sobre a situação atual e as expectativas dos microempreendedores individuais em diferentes setores. As respostas ajudam a preencher uma lacuna de indicadores e fornecem insights importantes para a tomada de decisões e políticas públicas em prol do desenvolvimento desses profissionais e do setor empresarial como um todo.
